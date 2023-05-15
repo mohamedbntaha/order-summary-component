@@ -153,6 +153,7 @@ h2 {
     align-items: center;
     background-color: hsl(245, 75%, 52%);
     box-shadow: 0 10px 20px 0px rgba(0, 0, 0, 0.56);border-radius: 10px;
+    cursor: pointer;
 }
 
 @media (max-width:767px) or (max-height:800px) {
